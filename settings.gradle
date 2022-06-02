@@ -1,0 +1,2 @@
+rootProjeect.name = 'springmvc'
+include('springweb')
